@@ -8,8 +8,8 @@ doi: 10.1109/ASPDAC.2017.7858303. Download the paper from [IEEExplore](http://ie
 Please read the [Referee Program](https://github.com/ieeelpirc/referee).
 
 LPIRC is an on-site competition. All participants must bring their systems to the competition sites
--2015 San Francisco (with Design Automation Conference)
--2016 Austin (with Design Automation Conference)
--2017 Honolulu (with Computer Vision and Pattern Recognition)
+*2015 San Francisco (with Design Automation Conference)
+*2016 Austin (with Design Automation Conference)
+*2017 Honolulu (with Computer Vision and Pattern Recognition)
 
 
