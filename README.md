@@ -17,5 +17,7 @@ LPIRC is an on-site competition. All participants must bring their systems to th
 
 LPIRC is an on-site competition and participants bring their systems to the competition site. LPIRC uses a client-server model: the referee is the web server and participants' systems are clients. To reduce intereference, only one client is allowed to connect to the server at any moment.
 
-* Procedure to prepare for a system
+* Procedure to prepare for a system:
+1. [Download Training Images](http://vision.cs.unc.edu/LPIRC/login.php)
+2. 
 
