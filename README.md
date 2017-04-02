@@ -15,7 +15,7 @@ LPIRC is an on-site competition. All participants must bring their systems to th
 
 LPIRC uses a client-server model: the referee is the web server and participants' systems are clients. To reduce intereference, only one client is allowed to connect to the server at any moment. The server and the client use HTTP for communication. The client uses GET to retreive images and POST to return answers.
 
-### Set up and test a system.
+### Set up and test a system
 
 Please read the [Referee Program](https://github.com/ieeelpirc/referee). 
 
